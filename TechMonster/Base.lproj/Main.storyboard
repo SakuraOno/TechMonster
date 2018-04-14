@@ -148,7 +148,7 @@
                         <viewLayoutGuide key="safeArea" id="23n-2C-mkT"/>
                     </view>
                     <connections>
-                        <outlet property="attackButton" destination="CNG-R7-VQZ" id="GGH-4S-tyN"/>
+                        <outlet property="attackButton" destination="CNG-R7-VQZ" id="QZR-iV-pnp"/>
                         <outlet property="backgroundImageView" destination="QrY-WX-2wQ" id="TGJ-J8-UVA"/>
                         <outlet property="enemyHPBar" destination="637-Se-AYw" id="vRD-xe-MMS"/>
                         <outlet property="enemyImageView" destination="3lU-u0-VuU" id="Dwe-A5-DY9"/>
